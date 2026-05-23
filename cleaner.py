@@ -38,7 +38,7 @@ class Config:
     pool_chunksize: int = 50
 
     min_words: int = 3
-    max_words: int = 200
+    max_words: int = 100000
 
     persian_numbers: bool = True
     remove_digits: bool = False
