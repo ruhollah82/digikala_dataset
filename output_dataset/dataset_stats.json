@@ -1,0 +1,20 @@
+{
+  "rows": 237855,
+  "unique_products": null,
+  "unique_comments": 237855,
+  "rating_distribution": {
+    "1": 16707,
+    "2": 6880,
+    "3": 20553,
+    "4": 50780,
+    "5": 142935
+  },
+  "buyer_distribution": {
+    "1": 237855
+  },
+  "avg_comment_words": 25.86150806163419,
+  "median_comment_words": 15.0,
+  "min_comment_words": 3,
+  "max_comment_words": 200,
+  "duplicate_comment_ids": 0
+}
